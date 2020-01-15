@@ -1,0 +1,15 @@
+body {
+	background-color: #e3e3e3
+}
+h1{
+	color: blue;
+}
+
+table th{
+	text-align: left;
+	padding: 4px 30px 4px 8px;
+}
+table td{
+	border:1px solid #e3e3e3;
+	padding: 4px 8px;
+}
